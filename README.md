@@ -29,4 +29,4 @@ To build working, automated pipelines that are scalable, secure and ready for us
 
 ### Contact me on LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-ramesh-5158443b2)
