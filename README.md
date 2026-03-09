@@ -12,7 +12,7 @@
 
 I am a first year student pursuing a bachelor's degree in Computer Science at Taylor's University. I have an interest in pursuing a future career in Data Engineering/ETL Engineering. I enjoy designing system schemas, understanding how data interfaces with software to create business insights. Within my profile, I have a few public projects to look through where I've used industry standard tools to create scalable and functional ETL pipelines ready for analytical and business insights. 
 
-![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarwinRamesh&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=DarwinRamesh&theme=dark)
 
 ### Featured Projects
 
