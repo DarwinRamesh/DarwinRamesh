@@ -26,7 +26,7 @@ I am a first year student pursuing a bachelor's degree in Computer Science at Ta
 | [Data-Warehouse](https://github.com/DarwinRamesh/Data-Warehouse) | Python, Postgres | A more scalable but still simple medallion architecture ETL pipeline done with postgreSQL and psycopg3 | Data Engineering |
 | [Databricks_dbt_project](https://github.com/DarwinRamesh/Databricks_dbt_project) | Python, Postgres, dbt, Databricks | A scalable medallion architecture ETL pipeline done in Databricks with dbt | Data Engineering |
 | [Kafka AWS Streaming pipeline](https://github.com/DarwinRamesh/kafka-aws-streaming-pipeline) | Python, AWS, Kafka, Docker, SQL | A structured streaming pipeline using Finnhub's api and AWS to host a datalakehouse. No database used, only parquet, glue and athena for compressed and efficient data storage and queribility. | Data Engineering |
-| [csv-cleaner] | Go | A simple and performant CSV cleaner written in Go | Data Processing |
+| [csv-cleaner](https://github.com/DarwinRamesh/csv-cleaner) | Go | A simple and performant CSV cleaner written in Go | Data Processing |
 
 ### Learning philosophy
 
